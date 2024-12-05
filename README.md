@@ -49,8 +49,4 @@ We appreciate and acknowledge the contributions of the following resources:
 - **Lindsey Wei**
 - **Jim Zhou**
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
